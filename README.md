@@ -7,7 +7,7 @@ Noteably is an AI-Powered Note taking tool that can automate the note-taking pro
 Installing Noteably is very simple. Start by cloning this GitHub repo as seen below.
 
 ```
-git clone git@github.com:bcarlson03/HackKU23-Project.git
+git@github.com:Lester822/HackKU23---Noteably.git
 ```
 
 
